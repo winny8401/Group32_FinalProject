@@ -15,5 +15,5 @@ To run PersoScan, you need Python and the following libraries:
 
 Install the dependencies using pip:
 ```bash
-pip install openai gradio
+pip install openai gradio.
 
